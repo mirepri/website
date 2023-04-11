@@ -195,6 +195,7 @@ pre .popover {
   padding: 0 0.5rem 0.3rem;
   margin-top: 10px;
   border-radius: 3px;
+  overflow-wrap: break-word;
 }
 
 /* Completion */
