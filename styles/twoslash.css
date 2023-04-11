@@ -72,6 +72,7 @@ pre.twoslash:hover data-lsp {
 pre.twoslash data-lsp:hover::before {
   content: attr(lsp);
   position: absolute;
+  right: 0;
   transform: translate(0, 1rem);
 
   background-color: #3f3f3f;
